@@ -53,7 +53,7 @@ const Feed = () => {
             overflowY:'auto',
             height:'90vh',
             flex:2,
-
+          
           }}
           >
         
